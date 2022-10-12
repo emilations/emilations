@@ -56,7 +56,7 @@ https://emilations.github.io/odin-ToDoList/
 A weather app
 https://emilations.github.io/odin-Weather-App/
 
-An It ticketing system
+An IT-ticketing system
 https://it-ticket.herokuapp.com/tickets
 
 
