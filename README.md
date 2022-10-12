@@ -27,7 +27,37 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :mechani: My projects
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 📁 My projects :
+
+A simple rock paper scissor game
+https://emilations.github.io/odin-RockPaperScissors/
+
+Etch a sketch game
+https://emilations.github.io/odin-Etch-A-Sketch/
+
+A calculator
+https://emilations.github.io/odin-Calculator/
+
+A signup form
+https://emilations.github.io/odin-SignUpForm/
+
+A static admin dashboard
+https://emilations.github.io/odin-admin-dashboard/
+
+A two player Tic Tac Toe
+https://emilations.github.io/odin-tic-tac-toe/
+
+A restaurant page
+https://emilations.github.io/odin-Restaurant/
+
+A to do list
+https://emilations.github.io/odin-ToDoList/
+
+A weather app
+https://emilations.github.io/odin-Weather-App/
+
+An It ticketing system
+https://it-ticket.herokuapp.com/tickets
+
+
 
