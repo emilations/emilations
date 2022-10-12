@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
+</div>
+
 
 **emilations/emilations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
