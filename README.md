@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
+<div id="header" align="center" max-width="100px">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="200" height="400"/>
 </div>
 
+
+https://img.shields.io/badge/LinkedIn-blue
 
 **emilations/emilations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
