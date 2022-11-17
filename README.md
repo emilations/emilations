@@ -73,8 +73,6 @@ Source Code: https://github.com/emilations/odin-react-assign
 On going project BattleShip (JavaScript, Jest, HTML, CSS) <br/>
 Source Code: https://github.com/emilations/odin-Battleship
 
-
-
 ---
 
 <div id="header" align="center">
