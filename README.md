@@ -18,35 +18,62 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 📁 My projects :
 
-Etch a sketch game
-https://emilations.github.io/odin-Etch-A-Sketch/
+Etch a sketch game (JavasScript, HTML, CSS) <br/>
+DEMO: https://emilations.github.io/odin-Etch-A-Sketch/ <br/>
+Source Code: https://github.com/emilations/odin-Etch-A-Sketch
 
-A calculator
-https://emilations.github.io/odin-Calculator/
+A calculator (JavasScript, HTML, CSS) <br/>
+DEMO: https://emilations.github.io/odin-Calculator/ <br/>
+Source Code: https://github.com/emilations/odin-Calculator
 
-An IT-ticketing system
-https://it-ticket.herokuapp.com/tickets
+An IT-ticketing system (Python, Flask, Jinja, SQLite, PostgreSQL, HTML, CSS) <br/>
+DEMO: https://it-ticket.herokuapp.com/tickets <br/>
+Source Code: https://github.com/emilations/cs50-It-ticketing
 
-A static admin dashboard
-https://emilations.github.io/odin-admin-dashboard/
+A Finance App (API, Python, Flask, Jinja, SQLite, HTML, CSS) <br/>
+Source Code: https://github.com/emilations/cs50-Finance
 
-A two player Tic Tac Toe
-https://emilations.github.io/odin-tic-tac-toe/
+A static admin dashboard (HTML, CSS) <br/>
+DEMO: https://emilations.github.io/odin-admin-dashboard/ <br/>
+Source Code: https://github.com/emilations/odin-admin-dashboard
 
-A restaurant page
-https://emilations.github.io/odin-Restaurant/
+A two player Tic Tac Toe (JavaScript, HTML, CSS) <br/>
+DEMO:https://emilations.github.io/odin-tic-tac-toe/ <br/>
+Source Code: https://github.com/emilations/odin-tic-tac-toe
 
-A to do list
-https://emilations.github.io/odin-ToDoList/
+A restaurant page (Javascript, HTML, CSS) <br/>
+DEMO: https://emilations.github.io/odin-Restaurant/ <br/>
+Source Code: https://github.com/emilations/odin-Restaurant
 
-A weather app
-https://emilations.github.io/odin-Weather-App/
+A to do list (JavaScript, HTML, CSS) <br/>
+DEMO: https://emilations.github.io/odin-ToDoList/ <br/>
+Source Code: https://github.com/emilations/odin-ToDoList
 
-A signup form
-https://emilations.github.io/odin-SignUpForm/
+A weather app (API, JavaScript, HTML, CSS) <br/>
+DEMO: https://emilations.github.io/odin-Weather-App/ <br/>
+Source Code: https://github.com/emilations/odin-Weather-App
 
-A simple rock paper scissor game
-https://emilations.github.io/odin-RockPaperScissors/
+A signup form (HTML, CSS) <br/>
+DEMO: https://emilations.github.io/odin-SignUpForm/ <br/>
+Source Code: https://github.com/emilations/odin-Weather-App
+
+A simple rock paper scissor game (Javascript) <br/>
+DEMO: https://emilations.github.io/odin-RockPaperScissors/ <br/>
+Source Code: https://github.com/emilations/odin-RockPaperScissors
+
+An advanced SQL querie project (SQLite3) <br/>
+Source Code: https://github.com/emilations/odin-RockPaperScissors
+
+A set of problems solved using (Python) <br/>
+Source Code: https://github.com/emilations/cs50/tree/main/pset6
+
+A small exrcice using (React) <br/>
+Source Code: https://github.com/emilations/odin-react-assign
+
+On going project BattleShip (JavaScript, Jest, HTML, CSS) <br/>
+Source Code: https://github.com/emilations/odin-Battleship
+
+
 
 ---
 
