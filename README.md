@@ -27,7 +27,7 @@ DEMO: https://emilations.github.io/odin-Calculator/ <br/>
 Source Code: https://github.com/emilations/odin-Calculator
 
 An IT-ticketing system (Python, Flask, Jinja, SQLite, PostgreSQL, HTML, CSS) <br/>
-DEMO: https://it-ticket.herokuapp.com/tickets <br/>
+DEMO (temporary offline): https://it-ticket.herokuapp.com/tickets <br/>
 Source Code: https://github.com/emilations/cs50-It-ticketing
 
 A Finance App (API, Python, Flask, Jinja, SQLite, HTML, CSS) <br/>
