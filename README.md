@@ -18,7 +18,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 📁 My projects :
 
-**15- On going project BattleShip (JavaScript, Jest, HTML, CSS)** <br/>
+**15- Going project BattleShip (JavaScript, Jest, HTML, CSS)** <br/>
 &nbsp;&nbsp; DEMO: https://emilations.github.io/odin-Battleship/ <br/>
 &nbsp;&nbsp; Source Code: https://github.com/emilations/odin-Battleship
 
