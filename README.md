@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 &nbsp;&nbsp; Source Code: https://github.com/emilations/odin-Calculator
 
 **12- An IT-ticketing system (Python, Flask, Jinja, SQLite, PostgreSQL, HTML, CSS)** <br/>
-&nbsp;&nbsp; DEMO (temporary offline): https://it-ticket.herokuapp.com/tickets <br/>
+&nbsp;&nbsp; DEMO: https://it-ticket.herokuapp.com/tickets <br/>
 &nbsp;&nbsp; Source Code: https://github.com/emilations/cs50-It-ticketing
 
 **11- A Finance App (API, Python, Flask, Jinja, SQLite, HTML, CSS)** <br/>
